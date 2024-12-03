@@ -52,7 +52,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnthonyTran96/react-native-my-lib.git"
+    "url": "https://github.com/AnthonyTran96/react-native-my-lib.git"
   },
   "author": "AnthonyTran <quanghust96@gmail.com> (https://github.com/AnthonyTran96)",
   "license": "MIT",
