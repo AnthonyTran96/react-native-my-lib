@@ -1,5 +1,5 @@
 {
-  "name": "react-native-my-lib",
+  "name": "@anthonytran96/react-native-my-lib",
   "version": "0.1.0",
   "description": "test",
   "source": "./src/index.tsx",
