@@ -61,7 +61,7 @@
   },
   "homepage": "https://github.com/AnthonyTran96/react-native-my-lib#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.0.2",
@@ -83,7 +83,7 @@
     "react-native-builder-bob": "^0.33.3",
     "release-it": "^17.10.0",
     "turbo": "^1.10.7",
-    "typescript": "^5.2.2"
+    "typescript": "^5.7.2"
   },
   "resolutions": {
     "@types/react": "^18.2.44"
